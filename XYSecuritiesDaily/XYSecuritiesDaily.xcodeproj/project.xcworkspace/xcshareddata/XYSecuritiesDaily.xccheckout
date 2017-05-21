@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6551B3A9-D6B7-406A-9ED4-8B7C4F893E19</string>
+	<key>IDESourceControlProjectName</key>
+	<string>XYSecuritiesDaily</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9BD6C187-E9E2-4B2D-9749-7718DF0B0164</key>
+		<string>svn://192.168.1.210:8082/Iphone/Projects/%E8%AF%81%E5%88%B8%E6%97%A5%E6%8A%A5/XYSecuritiesDaily</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>XYSecuritiesDaily.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9BD6C187-E9E2-4B2D-9749-7718DF0B0164</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>9BD6C187-E9E2-4B2D-9749-7718DF0B0164</key>
+		<string>svn://192.168.1.210:8082/Iphone</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://192.168.1.210:8082/Iphone/Projects/%E8%AF%81%E5%88%B8%E6%97%A5%E6%8A%A5/XYSecuritiesDaily/XYSecuritiesDaily.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9BD6C187-E9E2-4B2D-9749-7718DF0B0164</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9BD6C187-E9E2-4B2D-9749-7718DF0B0164</string>
+			<key>IDESourceControlWCCName</key>
+			<string>XYSecuritiesDaily</string>
+		</dict>
+	</array>
+</dict>
+</plist>
